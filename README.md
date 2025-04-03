@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👨‍💻 Rhee Hyungee
 
-<!--
-**hyungeerhee/hyungeerhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+저는 새로운 기술을 빠르게 익히고 다양한 개발 분야에 도전하며 문제 해결 과정에서 집요하게 해답을 찾아가는 개발자입니다.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 기술 스택
+
+| 분야               | 기술                                                                 | 
+|--------------------|----------------------------------------------------------------------|
+| 프로그래밍 언어      | **C, C++**, **Java**, Python                                          |
+| 프론트엔드          | **HTML, CSS, Bootstrap, Tailwind CSS**, JavaScript, jQuery, React.js, Next.js |
+| 백엔드             | **Node.js**, **Spring Boot**, Servlet, JSP, REST API, MySQL, MongoDB | 
+| 데스크톱 앱 개발     | **Electron**                                                         | 
+| 시스템/임베디드 개발 | Linux, 임베디드 Linux, 디바이스 드라이버 개발                        | 
+| 도구 및 협업        | GitHub, IntelliJ, VS Code, Doxygen, MkDocs                          | 
+| 문서화/프로젝트 관리 | MS Excel, PowerPoint, Word                                           | 
+
+---
+
+## 📚 교육 및 이수 과정
+
+- 🎓 **4년제 컴퓨터공학과 졸업**
+- 🧾 **리눅스마스터 2급 자격증 보유**
+- ☕ **메가IT 아카데미 백엔드 자바 스프링 부트캠프 수료 (6개월)**
+- 🧪 **토스뱅크 X 한국경제신문 풀스택 부트캠프 진행 중 (2025.01.03~)**
+- ⚙️ **반도체 SW 부트캠프 수료 (6개월)**
+- 📊 **TOEIC 800점**
+---
+
+## 🏢 인턴 경험
+
+- **Argo (반도체 IT 기업)** - 3개월 인턴  
+  → 하드웨어 제어를 위한 임베디드 기반 데스크톱 애플리케이션 개발  
+
+---
+
+## 💡 개발자로서의 목표
+
+문제 상황에서 해결점을 빠르게 분석하고 구현하는 실력을 갖추는 것이 저의 강점입니다.  
+여러 기술 스택을 실무에 적용한 경험을 바탕으로, 서비스 중심의 개발자로 성장하고자 합니다.
+
+---
