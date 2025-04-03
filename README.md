@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 기술 스택 (기초 사용 경험 포함)
 
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
