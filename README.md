@@ -1,67 +1,100 @@
-# 👨‍💻 Rhee Hyungee
+Rhee Hyungee (이현기)
 
-저는 새로운 기술을 배우는 것을 즐기고 다양한 개발 분야를 경험하며 성장해가고 있는 개발자입니다.
+Frontend | Backend | Fullstack Developer
 
-컴퓨터공학을 전공하며 개발의 기초를 다졌고 백엔드, 프론트엔드, 임베디드 시스템 등 다양한 경험을 쌓아왔습니다.
+👋 About Me
 
+저는 사용자 경험을 최우선으로 생각하는 풀스택 개발자입니다.
+프론트엔드(UI/UX 설계, 화면 퍼블리싱)부터 백엔드(Spring Boot, Node.js)까지 경험하며,
+기획 → 설계 → 구현 → 배포 전 과정을 독립적으로 수행할 수 있습니다.
 
----
+특히 금융 도메인 프로젝트 경험과 AI 기술(OpenAI API 연동)을 바탕으로
+사용자 중심의 서비스를 설계하고 구현하는 데 강점을 가지고 있습니다.
 
-## 🛠 기술 스택 (기초 사용 경험 포함)
+⸻
 
-![Doxygen](https://img.shields.io/badge/Doxygen-0066A1?style=for-the-badge&logoColor=white)
-![MkDocs](https://img.shields.io/badge/MkDocs-000000?style=for-the-badge&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white)
-![Makefile](https://img.shields.io/badge/Makefile-3776AB?style=for-the-badge&logo=cmake&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Servlet](https://img.shields.io/badge/Servlet-007396?style=for-the-badge&logo=java&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+🔧 Tech Stack
 
+Frontend
+	•	React, TypeScript, JavaScript (ES6+), HTML/CSS
+	•	Tailwind CSS, Bootstrap, Vite, Next.js
+	•	UI/UX 설계, 반응형/접근성 디자인
 
----
+Backend
+	•	Java, Spring Boot, JPA, JWT
+	•	Node.js, Express, RESTful API
+	•	MySQL, AWS RDS
 
-## 👋 About Me
+Desktop & Tools
+	•	Electron 기반 데스크톱 앱 개발
+	•	Git, Github 협업
+	•	VS Code, IntelliJ, DBeaver, MySQL Workbench
+	•	Figma, Notion, Slack
+	•	MkDocs, Doxygen
 
-- 🏢 **Fabless 반도체 솔루션 기업 인턴 (3개월)**  
-  → 임베디드 하드웨어 제어 데스크탑 애플리케이션 개발
+AI & Specialization
+	•	OpenAI API 연동 및 AI 서비스 구현
+	•	금융 서비스(핀테크) 이해 및 컴플라이언스 고려
 
-- 🏆 **토스뱅크 × 한국경제신문 풀스택 부트캠프 (6개월)**  
-  → 팀 프로젝트 대상 수상  
+⸻
 
-- 💻 **백엔드 Java Spring Boot 부트캠프 수료(6개월)**
+🎓 Education & Certifications
+	•	서경대학교 컴퓨터공학과 (2019.03 ~ 2025.02, 졸업예정)
+	•	정보처리기사 (2025.06)
+	•	리눅스마스터 2급 (2025.01)
+	•	TOEIC 800점 (2025.01)
 
-- 🛠️ **NCS 기반 반도체 소프트웨어 개발 교육 수료(3개월)**  
+⸻
 
-- 🎓 **4년제 컴퓨터공학과 졸업**
+🏆 Awards
+	•	K-디지털 트레이닝 Tech 대상 – Toss Bank (2025.07)
+	•	K-디지털 트레이닝 Tech 우수상 – 한국경제신문 (2025.04)
 
-- 🏅 **정보처리기사**, **리눅스마스터 2급**
+⸻
 
-- 🌐 **TOEIC 800점**
+💼 Projects
 
----
+1. BUFL – 월급 자동 분배 & AI 소비 분석 웹앱
+	•	기간: 2025.02 ~ 2025.04
+	•	역할: 프론트엔드 (기여도 30%)
+	•	기술: React, TypeScript, Figma
+	•	성과: AI 기반 자동 분배 기능, 협업 프로세스 개선, 팀 우수상 수상
 
+⸻
 
+2. POPO WORLD – 초등학생 금융교육 웹앱
+	•	기간: 2025.05 ~ 2025.07
+	•	역할: 프론트엔드 (기여도 40%)
+	•	기술: React, TypeScript, TailwindCSS, Vercel
+	•	특징: 교육적 가치 중심, AI 챗봇 연동
+
+⸻
+
+3. SMART NOTE – AI 문서편집 데스크톱 앱
+	•	기간: 2024.09 ~ 2024.11
+	•	역할: 풀스택 (기여도 100%)
+	•	기술: Electron, Node.js, OpenAI API
+	•	성과: OpenAI API 연동 문제 해결, 예외 처리 및 환경변수 관리
+
+⸻
+
+4. Serial Port Interface – 백오피스 데스크톱 앱
+	•	기간: 2024.06 ~ 2024.08 (인턴십 중)
+	•	역할: 풀스택 (기여도 100%)
+	•	기술: Electron, 비동기 통신, 데이터 버퍼링
+	•	성과: 성능 15% 이상 개선, UI/UX 전면 리디자인, 기술 문서화
+
+⸻
+
+🌟 Strengths
+	•	풀스택 개발 역량: 프론트엔드와 백엔드 전 과정을 직접 수행
+	•	UX 중심 설계: 복잡한 시스템을 단순하고 직관적으로 구현
+	•	금융 도메인 이해: 핀테크 서비스와 보안 요구사항 반영 가능
+	•	AI 활용 능력: OpenAI API 기반 혁신 기능 구현 경험
+	•	문제 해결력: 장애 상황 즉시 원인 분석 및 24시간 내 해결
+
+⸻
+
+📫 Contact
+	•	Email: hyungeerhee@naver.com
+	•	Phone: 010-4186-7360
